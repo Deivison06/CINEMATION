@@ -1,5 +1,5 @@
 {{-- Top 10 Movies section --}}
-<div class="mt-12 pl-28">
+<div class="mt-12 pl-24 pr-24">
     <span class="font-inter font-bold text-xl">Top 10 Movies</span>
 
     <div class="flex flex-row overflow-x-auto pt-6 pb-10">
